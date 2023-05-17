@@ -5,7 +5,7 @@ function fizzBuzz(){
     output.push(count);
     count++;
     console.log(output);
-    fizzBuzz(count);
+    fizzBuzz();
     }
 }
 fizzBuzz();
