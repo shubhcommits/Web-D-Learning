@@ -13,3 +13,5 @@
 // document.querySelector("button").style.backgroundColor = "yellow";
 // document.querySelector("button").classList // This is used to get list of all classes in our html
 // document.querySelector("button").classList.add("invisible"); // this is used  to add class in our html;
+// document.querySelector("button").classList.toogle("invisible"); //if class(here invisible) is applied then it will removed if not then it will added
+document.querySelector("h1").classList.add("huge");
