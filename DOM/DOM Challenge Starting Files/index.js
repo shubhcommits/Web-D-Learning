@@ -10,4 +10,6 @@
 //document.querySelector("li a").style.color = "green";
 // document.querySelector("h1").style.fontSize = "10rem";
 // document.querySelector("h1").style.visibility = "hidden";
-document.querySelector("button").style.backgroundColor = "yellow";
+// document.querySelector("button").style.backgroundColor = "yellow";
+// document.querySelector("button").classList // This is used to get list of all classes in our html
+// document.querySelector("button").classList.add("invisible"); // this is used  to add class in our html;
