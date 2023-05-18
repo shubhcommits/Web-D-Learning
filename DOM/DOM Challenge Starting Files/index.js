@@ -7,4 +7,7 @@
 // document.querySelector("li.item");
 // document.querySelector("list.item");  //This will output only first element 
 // document.querySelectorAll("#list.item"); //This will select all elements in an in form of  array
-document.querySelector("li a").style.color = "green";
+//document.querySelector("li a").style.color = "green";
+// document.querySelector("h1").style.fontSize = "10rem";
+// document.querySelector("h1").style.visibility = "hidden";
+document.querySelector("button").style.backgroundColor = "yellow";
